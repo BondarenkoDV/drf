@@ -15,4 +15,5 @@
 
     python manage.py migrate
 
-[Список тикетов](127.0.0.1:8000/app/api/token/tickets_list/)
+Список тикетов можно получить по
+127.0.0.1:8000/app/api/token/tickets_list/
